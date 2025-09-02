@@ -1,5 +1,3 @@
-Ah, sem problemas! A licença MIT é opcional. Vou te dar uma versão mais simples do README sem a licença:
-
 # Estimador de π usando Métodos Numéricos
 
 Este projeto estima o valor de π usando o método histórico de Arquimedes, dividindo um círculo em triângulos inscritos.
